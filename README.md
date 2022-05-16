@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=FYTZkE5BZ-0&t=692s
 https://pages.mtu.edu/~suits/notefreqs.html
 
 https://pages.mtu.edu/~suits/NoteFreqCalcs.html
+
+https://www.youtube.com/watch?v=P7iC-fbdKmQ&t=166s
