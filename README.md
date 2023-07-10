@@ -1,6 +1,6 @@
 # Generate Music with Haskell: Hans Zimmer Inspired Soundtracks 🎶
 
-This Haskell code generates soundtracks, replicating the style of Hans Zimmer, specifically targeting the Pirates of the Caribbean theme "One Day". This code is an excellent example of how one can represent musical notes and melodies programmatically and generate audio files using functional programming.
+This Haskell code generates music. This code is an excellent example of how one can represent musical notes and melodies programmatically and generate audio files using functional programming.
 
 ## Understanding the Code
 
